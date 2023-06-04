@@ -6,7 +6,7 @@
 
   (title_block
     (title "MiniMix")
-    (rev "v1.0")
+    (rev "v1.2")
   )
 
   (lib_symbols

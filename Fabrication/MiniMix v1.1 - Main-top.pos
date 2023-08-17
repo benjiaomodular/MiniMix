@@ -1,0 +1,16 @@
+### Module positions - created on Thursday, 17 August, 2023 09:51:03 PM ###
+### Printed by Pcbnew version 6.0.11+dfsg-1~bpo11+1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                         PosX       PosY       Rot  Side
+J1        AudioJack2_SwitchT  AudioJack_3.5mm                               5.9293    98.0000    0.0000  top
+J2        AudioJack2_SwitchT  AudioJack_3.5mm                              17.8793    98.0000    0.0000  top
+J3        AudioJack2_SwitchT  AudioJack_3.5mm                              29.8793    97.9800    0.0000  top
+J4        AudioJack2_SwitchT  AudioJack_3.5mm                              41.6793    97.9800    0.0000  top
+J5        AudioJack2_SwitchT  AudioJack_3.5mm                              23.8000    15.7300    0.0000  top
+RV1       A100k               Potentiometer_Bourns_PTA4543_Single_Slide     4.0500    23.5500   90.0000  top
+RV2       A100k               Potentiometer_Bourns_PTA4543_Single_Slide    16.0500    23.5500   90.0000  top
+RV3       A100k               Potentiometer_Bourns_PTA4543_Single_Slide    28.0500    23.5500   90.0000  top
+RV4       A100k               Potentiometer_Bourns_PTA4543_Single_Slide    39.8000    23.5500   90.0000  top
+RV5       A100k               Potentiometer_RV09                           36.3000     1.8000   90.0000  top
+## End
